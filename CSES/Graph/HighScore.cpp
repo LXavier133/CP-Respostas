@@ -15,7 +15,6 @@ int main(){__
 		int a,b,w;cin>>a>>b>>w;
 		edges.push_back({a-1,b-1,-w});}
 	vector<ll> d(n,INF);
-	vector<ll> p(n,-1);
 	vector<bool> alc(n,false);
 	d[0]=0;
 	alc[n-1]=true;
