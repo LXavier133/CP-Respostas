@@ -1,9 +1,9 @@
 # CSES Problem Set
 Resoluções dos problemas do CSES
 ## Introductory Problems
-- Weird Algorithm	([code](Intro/WeirdAlgorithm.cpp))
-- Missing Number	([code](Intro/MissingNumber.cpp))
-- Repetitions	([code](Intro/Repetitions.cpp))
+- [Weird Algorithm](docs/wa.md)	([code](Intro/WeirdAlgorithm.cpp))
+- [Missing Number](docs/mn.md)	([code](Intro/MissingNumber.cpp))
+- [Repetitions](docs/rep.md)	([code](Intro/Repetitions.cpp))
 - Increasing Array	([code](Intro/IncreasingArray.cpp))
 - Permutations	([code](Intro/Permutation.cpp))
 - Number Spiral	([code](Intro/NumSpiral.cpp))
