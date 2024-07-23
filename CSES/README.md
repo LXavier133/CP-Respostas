@@ -100,8 +100,8 @@ Resoluções dos problemas do CSES
 - Planets Cycles
 - Road Reparation
 - Road Construction
-- Flight Routes Check
-- Planets and Kingdoms
+- Flight Routes Check	([code](Graph/FRCheck.cpp))
+- Planets and Kingdoms	([code](Graph/PnK.cpp))
 - Giant Pizza
 - Coin Collector
 - Mail Delivery
