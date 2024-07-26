@@ -4,15 +4,15 @@ Resoluções dos problemas do CSES
 - [Weird Algorithm](docs/wa.md)	([code](Intro/WeirdAlgorithm.cpp))
 - [Missing Number](docs/mn.md)	([code](Intro/MissingNumber.cpp))
 - [Repetitions](docs/rep.md)	([code](Intro/Repetitions.cpp))
-- Increasing Array	([code](Intro/IncreasingArray.cpp))
-- Permutations	([code](Intro/Permutation.cpp))
-- Number Spiral	([code](Intro/NumSpiral.cpp))
-- Two Knights	([code](Intro/TwoKnights.cpp))
-- Two Sets	([code](Intro/TwoSets.cpp))
-- Bit Strings	([code](Intro/BitStrings.cpp))
-- Trailing Zeros	([code](Intro/TrailingZeros.cpp))
-- Coin Piles	([code](Intro/CoinPiles.cpp))
-- Palindrome Reorder ([code](Intro/PalindromeReorder.cpp))
+- [Increasing Array](docs/iar.md)	([code](Intro/IncreasingArray.cpp))
+- [Permutations](docs/perm.md)	([code](Intro/Permutation.cpp))
+- [Number Spiral](docs/numsp.md)	([code](Intro/NumSpiral.cpp))
+- [Two Knights](docs/2kn.md)	([code](Intro/TwoKnights.cpp))
+- [Two Sets](docs/2st.md)	([code](Intro/TwoSets.cpp))
+- [Bit Strings](docs/bitstr.md)	([code](Intro/BitStrings.cpp))
+- [Trailing Zeros](docs/trail0.md)	([code](Intro/TrailingZeros.cpp))
+- [Coin Piles](docs/coinp.md)	([code](Intro/CoinPiles.cpp))
+- [Palindrome Reorder](docs/prdr.md) ([code](Intro/PalindromeReorder.cpp))
 - Gray Code
 - Tower of Hanoi
 - Creating Strings
@@ -21,9 +21,9 @@ Resoluções dos problemas do CSES
 - Digit Queries
 - Grid Paths
 ## Sorting and Searching
-- Distinct Numbers	([code](SeS/DistinctNum.cpp))
+- [Distinct Numbers](docs/distnum.md)	([code](SeS/DistinctNum.cpp))
 - Apartments
-- Ferris Wheel	([code](SeS/FWheel.cpp))
+- [Ferris Wheel](docs/fwheel.md)	([code](SeS/FWheel.cpp))
 - Concert Tickets
 - Restaurant Customers
 - Movie Festival
@@ -152,9 +152,9 @@ Resoluções dos problemas do CSES
 - Fixed-Length Paths II
 ## Mathematics
 - Josephus Queries
-- Exponentiation
+- Exponentiation	([code](Math/ExpI.cpp))
 - Exponentiation II
-- Counting Divisors
+- Counting Divisors	([code](Math/CountingDivisors.cpp))
 - Common Divisors
 - Sum of Divisors
 - Divisor Analysis
