@@ -27,7 +27,7 @@ Resoluções dos problemas do CSES
 - Concert Tickets
 - Restaurant Customers
 - Movie Festival
-- Sum of Two Values
+- [Sum of Two Values](docs/s2v.md)	([code](SeS/S2V.cpp))
 - Maximum Subarray Sum	([code](SeS/MaxSubSum.cpp))
 - Stick Lengths
 - Missing Coin Sum
