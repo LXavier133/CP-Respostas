@@ -77,7 +77,7 @@ Resoluções dos problemas do CSES
 - Counting Tilings
 - Counting Numbers
 ## Graph Algorithms
-- Counting Rooms	([code](Graph/CountingRooms.cpp))
+- [Counting Rooms](docs/ctroom.md)	([code](Graph/CountingRooms.cpp))
 - Labyrinth	([code](Graph/Labyrinth.cpp))
 - Building Roads	([code](Graph/BuildingRoads.cpp))
 - Message Route	([code](Graph/MessageRoute.cpp))
