@@ -28,7 +28,7 @@ Resoluções dos problemas do CSES
 - Restaurant Customers
 - Movie Festival
 - [Sum of Two Values](docs/s2v.md)	([code](SeS/S2V.cpp))
-- Maximum Subarray Sum	([code](SeS/MaxSubSum.cpp))
+- [Maximum Subarray Sum](docs/mssum.md)	([code](SeS/MaxSubSum.cpp))
 - Stick Lengths
 - Missing Coin Sum
 - Collecting Numbers
@@ -57,9 +57,9 @@ Resoluções dos problemas do CSES
 - Movie Festival II
 - Maximum Subarray Sum II
 ## Dynamic Programming
-- Dice Combinations	([code](DP/DiceCombinations.cpp))
-- Minimizing Coins	([code](DP/MinimizingCoins.cpp))
-- Coin Combinations I	([code](DP/CoinsCombinationsI.cpp))
+- [Dice Combinations](docs/dcomb.md)	([code](DP/DiceCombinations.cpp))
+- [Minimizing Coins](docs/mcoin.md)	([code](DP/MinimizingCoins.cpp))
+- [Coin Combinations I](docs/ccomb1.md)	([code](DP/CoinCombinationsI.cpp))
 - Coin Combinations II
 - Removing Digits
 - Grid Paths
@@ -78,11 +78,11 @@ Resoluções dos problemas do CSES
 - Counting Numbers
 ## Graph Algorithms
 - [Counting Rooms](docs/ctroom.md)	([code](Graph/CountingRooms.cpp))
-- Labyrinth	([code](Graph/Labyrinth.cpp))
-- Building Roads	([code](Graph/BuildingRoads.cpp))
-- Message Route	([code](Graph/MessageRoute.cpp))
-- Building Teams	([code](Graph/BuildingTeams.cpp))
-- Round Trip	([code](Graph/RoundTrip.cpp))
+- [Labyrinth](docs/lab.md)	([code](Graph/Labyrinth.cpp))
+- [Building Roads](docs/broad.md)	([code](Graph/BuildingRoads.cpp))
+- [Message Route](docs/mrout.md)	([code](Graph/MessageRoute.cpp))
+- [Building Teams](docs/bteam.md)	([code](Graph/BuildingTeams.cpp))
+- [Round Trip](docs/rtrip.md)	([code](Graph/RoundTrip.cpp))
 - Monsters
 - Shortest Routes I	([code](Graph/ShortestRoutesI.cpp))
 - Shortest Routes II	([code](Graph/ShortestRoutesII.cpp))
@@ -152,9 +152,9 @@ Resoluções dos problemas do CSES
 - Fixed-Length Paths II
 ## Mathematics
 - Josephus Queries
-- Exponentiation	([code](Math/ExpI.cpp))
+- [Exponentiation](docs/exp1.md)	([code](Math/ExpI.cpp))
 - Exponentiation II
-- Counting Divisors	([code](Math/CountingDivisors.cpp))
+- [Counting Divisors](docs/cntdiv.md)	([code](Math/CountingDivisors.cpp))
 - Common Divisors
 - Sum of Divisors
 - Divisor Analysis
@@ -176,9 +176,9 @@ Resoluções dos problemas do CSES
 - Moving Robots
 - Candy Lottery
 - Inversion Probability
-- Stick Game	([code](Math/StickGame.cpp))
-- Nim Game I	([code](Math/NimGameI.cpp))
-- Nim Game II	([code](Math/NimGameII.cpp))
+- [Stick Game](docs/sgame.md)	([code](Math/StickGame.cpp))
+- [Nim Game I](docs/nim1.md)	([code](Math/NimGameI.cpp))
+- [Nim Game II](docs/nim2.md)	([code](Math/NimGameII.cpp))
 - Stair Game	([code](Math/StairGame.cpp))
 - Grundy's Game
 - Another Game	([code](Math/AnotherGame.cpp))
