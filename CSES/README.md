@@ -83,30 +83,30 @@ Resoluções dos problemas do CSES
 - [Message Route](docs/mrout.md)	([code](Graph/MessageRoute.cpp))
 - [Building Teams](docs/bteam.md)	([code](Graph/BuildingTeams.cpp))
 - [Round Trip](docs/rtrip.md)	([code](Graph/RoundTrip.cpp))
-- Monsters
-- Shortest Routes I	([code](Graph/ShortestRoutesI.cpp))
-- Shortest Routes II	([code](Graph/ShortestRoutesII.cpp))
-- High Score	([code](Graph/HighScore.cpp))
+- [Monsters](docs/monsters.md) ([code](Graph/Monsters.cpp))
+- [Shortest Routes I](docs/srout1.md)	([code](Graph/ShortestRoutesI.cpp))
+- [Shortest Routes II](docs/srout2.md)	([code](Graph/ShortestRoutesII.cpp))
+- [High Score](docs/hscore.md)	([code](Graph/HighScore.cpp))
 - Flight Discount
 - Cycle Finding
 - Flight Routes
 - Round Trip II
-- Course Schedule	([code](Graph/CourseSchedule.cpp))
+- [Course Schedule](docs/csch.md)	([code](Graph/CourseSchedule.cpp))
 - Longest Flight Route
 - Game Routes
 - Investigation
 - Planets Queries I
 - Planets Queries II
 - Planets Cycles
-- Road Reparation
+- Road Reparation	([code](Graph/RoadReparation.cpp))
 - Road Construction
-- Flight Routes Check	([code](Graph/FRCheck.cpp))
-- Planets and Kingdoms	([code](Graph/PnK.cpp))
+- [Flight Routes Check](docs/frck.md)	([code](Graph/FRCheck.cpp))
+- [Planets and Kingdoms](docs/pnk.md)	([code](Graph/PnK.cpp))
 - Giant Pizza
 - Coin Collector
 - Mail Delivery
 - De Bruijn Sequence
-- Teleporters Path
+- Teleporters Path	([code](Graph/TPath.cpp))
 - Hamiltonian Flights
 - Knight's Tour
 - Download Speed
