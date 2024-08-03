@@ -10,7 +10,4 @@ Esse repositório foi feito para armazenar os problemas que eu solucionei durant
 - [Beecrowd](Beecrowd/README.md)
 - [Codeforces](CodeForces/README.md)
 - [CSES](CSES/README.md)
-- [OBI](OBI/README.md)
-- [Maratona SBC](MaratonaSBC/README.md)
 - [Outros](Outros/README.md)
-
