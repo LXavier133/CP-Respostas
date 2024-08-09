@@ -44,6 +44,9 @@ Primeira Fase
 | --- | --- | --- |
 | Torneio | | [.](../OBI/2021/torneio.cpp) |
 | Zero | | [.](../OBI/2021/zero.cpp) |
+| Tempo| | [.](../OBI/2021/tempo.cpp) |
+| Baralho | | [.](../OBI/2021/baralho.cpp) |
+
 
 Prova da OBI 2022
 
