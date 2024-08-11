@@ -35,8 +35,11 @@ Resoluções dos problemas do Beecrowd
 | 1429 | Fatorial de Novo! | Matemática | [.](docs/1429.md) | [.](1429.cpp) |
 | 1430 | Composição de Jingles | Estruturas e Bibliotecas | [.](docs/1430.md) | [.](1430.cpp) |
 | 1445 | Quem Vai à Festa? | Grafos | [.](docs/1445.md) | [.](1445.cpp) |
+| 1506 | Energia dos Triângulos | Geometria Computacional | [.](docs/1506.md) | [.](1506.cpp) |
+| 1605 | Bolos da Maria | Paradigmas | [.](docs/1605.md) | [.](1605.cpp) |
 | 1739 | Sequência de Threebonacci | Ad-Hoc | [.](docs/1739.md) | [.](1739.cpp) |
 | 1763 | Tradutor do Papai Noel | Estruturas e Bibliotecas | [.](docs/1763.md) | [.](1763.cpp) |
+| 1855 | Mapa do Meistre | Grafos | [.](docs/1855.md) | [.](1855.cpp) |
 | 1911 | Ajude Girafales | Estruturas e Bibliotecas | [.](docs/1911.md) | [.](1911.cpp) |
 | 1944 | BRINDE FACE 2015 | Estruturas e Bibliotecas | [.](docs/1944.md) | [.](1944.cpp) |
 | 2065 | Fila do Supermercado | Estruturas e Bibliotecas | [.](docs/2065.md) | [.](2065.cpp) |
@@ -47,6 +50,7 @@ Resoluções dos problemas do Beecrowd
 | 2461 | Blefe | Ad-Hoc | [.](docs/2461.md) | [.](2461.cpp) |
 | 2653 | Dijkstra | Iniciante | [.](docs/2653.md) | [.](2653.cpp) |
 | 2893 | Fibonac^{k}i | Estruturas e Bibliotecas | [.](docs/2893.md) | [.](2893.cpp) |
+| 2958 | O Rolê Bad Vibes | Estruturas e Bibliotecas | [.](docs/2958.md) | [.](2958.cpp) |
 | 3069 | Sorvete | Estruturas e Bibliotecas | [.](docs/3069.md) | [.](3069.cpp) |
 | 3412 | Avaliações de Algoritmos | Ad-Hoc | [.](docs/3412.md) | [.](3412.cpp) |
 | 3416 | Eu Quero Cafééé | Ad-Hoc | [.](docs/3416.md) | [.](3416.cpp) |
