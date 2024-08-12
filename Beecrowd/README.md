@@ -29,6 +29,7 @@ Resoluções dos problemas do Beecrowd
 | 1259 | Pares e Ímpares | Estruturas e Bibliotecas | [.](docs/1259.md) | [.](1259.cpp) |
 | 1260 | Espécies de Madeira | Estruturas e Bibliotecas | [.](docs/1260.md) | [.](1260.cpp) |
 | 1281 | Ida à Feira | Estruturas e Bibliotecas | [.](docs/1281.md) | [.](1281.cpp) |
+| 1303 | Spurus Rocks | Estruturas e Bibliotecas | [.](docs/1303.md) | [.](1303.cpp) |
 | 1323 | Feynman | Matemática | [.](docs/1323.md) | [.](1323.cpp) |
 | 1340 | Eu Posso Adivinhar a Estrutura de Dados! | Estruturas e Bibliotecas | [.](docs/1340.md) | [.](1340.cpp) |
 | 1424 | Problema Fácil da Rujia Liu? | Estruturas e Bibliotecas | [.](docs/1424.md) | [.](1424.cpp) |
