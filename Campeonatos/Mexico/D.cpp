@@ -17,7 +17,7 @@ int main(){__
 		else pref[j][i]=pref[j][i-1]+b;
 	}
 	ll minDia = INF;
-	for(int i=0; i<k; i++) minDia=min(minDia,a[i]/pref[i][n-1]);
+	for(int i=0; i<k; i++) if(pref[i][n-1]!=0) minDia=min(minDia,a[i]/pref[i][n-1]);
 	cout<<minDia+1<<" ";
 	ll minOrd = INF;
 	for(int i=0; i<k; i++) minOrd=min(minOrd,(ll) (upper_bound(pref[i].begin(),pref[i].end(),a[i]-minDia*pref[i][n-1])-pref[i].begin()));
